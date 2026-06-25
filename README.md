@@ -1,6 +1,6 @@
 # 📊 Power BI – Geographic Density & Trend Analytics
 
-## *(Massive Dataset Case Study)*
+## *(Business Intelligence Dashboard)*
 
 ## 🌎 Overview
 
