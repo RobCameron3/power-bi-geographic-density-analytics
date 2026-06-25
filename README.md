@@ -4,11 +4,19 @@
 
 ## 🌎 Overview
 
-This project executes a geographic density analysis by transforming a massive raw dataset of coordinates and timestamps into a structured visual framework. This system isolates regional trends and chronologically tracks data spikes across North America.
+This project executes a geographic density analysis by transforming a massive raw dataset of coordinates and timestamps into a structured visual framework. The dashboard uncovers regional hotspots, seasonal trends, and long-term activity patterns through interactive business intelligence reporting.
 
 ## 🎯 Objective
 
-Analyze high-volume location records to map density concentrations, standardize unformatted historical database fields, and uncover clear chronological spikes for organizational tracking.
+Analyze high-volume location records to map density concentrations, standardize unformatted historical database fields, and uncover meaningful geographic and chronological patterns through interactive analytics.
+
+## ❓ Business Challenge
+
+Large volumes of historical location and timestamp data made it difficult to identify geographic hotspots, seasonal trends, and long-term activity patterns. Without interactive reporting, discovering meaningful insights across regions and time periods required significant manual analysis.
+
+## 💡 Solution
+
+Built an interactive Power BI dashboard that transforms raw sighting records into a centralized analytics platform. The dashboard enables users to explore geographic hotspots, compare sightings by state and season, analyze long-term trends, identify peak activity periods, and interactively filter results by region and date to uncover meaningful patterns.
 
 ## 🛠️ Key Skills Demonstrated
 
@@ -35,19 +43,19 @@ Isolated latitude and longitude fields to ensure geographic points could be plot
 
 ### 📊 Step 4: Model Time-Intelligence
 
-Developed custom chronological calculations to group records by year, month, and season to isolate patterns over time.
+Developed custom chronological calculations to group records by year, month, quarter, and season to identify long-term activity patterns.
 
-### 🗺️ Step 5: Engineer Visual Map Dashboards
+### 🗺️ Step 5: Engineer Interactive Geographic Dashboards
 
-Designed an interactive geographic map layout featuring density rings to highlight high-volume record clusters.
+Designed interactive reports featuring regional filters, geographic visualizations, and comparative trend analysis across states and seasons.
 
-### 📈 Step 6: Build Chronological Trend Reports
+### 📈 Step 6: Build Trend & Seasonal Analysis
 
-Constructed supporting bar charts and line graphs to clearly display seasonal activity spikes and regional data concentrations.
+Created supporting charts and visualizations to highlight yearly trends, seasonal distributions, monthly activity, and geographic concentrations.
 
 ## ✅ Outcome
 
-Transformed a massive, unformatted raw file into a process-driven business intelligence dashboard, allowing stakeholders to instantly identify geographic concentrations and seasonal trends.
+Transformed a massive, unformatted dataset into an interactive business intelligence dashboard that enables users to identify geographic hotspots, analyze seasonal and historical trends, compare regional activity, and explore patterns through dynamic filtering and visualization.
 
 ## 💻 Tools Used
 
